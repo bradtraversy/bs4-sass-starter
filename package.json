@@ -1,0 +1,14 @@
+{
+  "name": "btre_theme",
+  "version": "1.0.0",
+  "description": "Frontend theme for BT Real Esatate App",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/assets/css/"
+  },
+  "author": "Brad Traversy",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
